@@ -1,4 +1,5 @@
 ---
+
 name: "🐛 Bug Report"
 
 about: "Reportar un error para ayudarnos a mejorar el proyecto."
@@ -8,6 +9,7 @@ title: "[BUG] - Descripción corta del error"
 labels: bug
 
 assignees: ""
+
 ---
 
 ## 🐛 Bug Report
@@ -45,3 +47,5 @@ Si es posible, añade capturas de pantalla o registros de errores.
 ### Información adicional
 
 Cualquier otra información relevante.
+
+
